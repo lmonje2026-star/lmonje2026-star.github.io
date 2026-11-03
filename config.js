@@ -24,5 +24,5 @@ window.SITE_CONFIG = {
   formEndpoint: "",
 
   // Palabras que van cambiando en el titular
-  rotatingWords: ["cafetería", "tienda", "peluquería", "restaurante", "gimnasio", "clínica", "negocio"]
+  rotatingWords: []  // pon aquí palabras si algún día quieres que vuelva a cambiar
 };
