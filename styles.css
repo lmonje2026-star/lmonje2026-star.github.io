@@ -112,7 +112,7 @@ header.top.scrolled{border-bottom-color:var(--line)}
 .team{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .person{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px;display:flex;flex-direction:column;gap:10px;transition:transform .25s,border-color .25s}
 .person:hover{transform:translateY(-4px);border-color:var(--accent)}
-.avatar{width:72px;height:72px;border-radius:20px;background:var(--soft);color:var(--accent);display:grid;place-items:center;font:800 23px/1 var(--f-display);font-stretch:125%;object-fit:cover;margin-bottom:6px}
+.avatar{width:96px;height:96px;border-radius:20px;background:var(--soft);color:var(--accent);display:grid;place-items:center;font:800 23px/1 var(--f-display);font-stretch:125%;object-fit:cover;margin-bottom:6px}
 .person h3{font-size:21px}
 .role{font:500 12px/1.4 var(--f-mono);text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
 .person p:not(.role){color:var(--muted);font-size:15px}
