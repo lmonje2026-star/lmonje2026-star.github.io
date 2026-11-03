@@ -8,7 +8,7 @@ window.SITE_CONFIG = {
   name: "Garbí",
 
   // Datos de contacto: PENDIENTES DE AÑADIR
-  email: "",            // ej. "hola@tudominio.com"
+  email: "l.monjemip2026@gmail.com",
   phone: "",            // ej. "600 123 456"
 
   // Redes sociales: pega la dirección completa o déjalo vacío
